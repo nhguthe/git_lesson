@@ -1,3 +1,7 @@
 #Test 1
 
-x <- rnorm(100)
+x <- rnorm(300)
+
+
+
+#wooow
