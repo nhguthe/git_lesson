@@ -1,0 +1,19 @@
+#Test 1
+
+<<<<<<< HEAD
+x <- rnorm(500)
+y <-  rnorm (400)
+
+#wooow
+
+#new feature - adding stuff
+=======
+x <- rnorm(200)
+y <-  rnorm (300)
+
+#wooow
+
+#new feature
+
+#crazy stuff
+>>>>>>> crazy-stuff
