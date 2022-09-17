@@ -1,8 +1,8 @@
 #Test 1
 
-x <- rnorm(100)
-y <-  rnorm (100)
+x <- rnorm(500)
+y <-  rnorm (400)
 
 #wooow
 
-#new feature
+#new feature - adding stuff
